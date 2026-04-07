@@ -5,8 +5,7 @@
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mina176&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mina176&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mina176&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Pub Version](https://img.shields.io/pub/v/ios_multi_slidable)](https://pub.dev/packages/ios_multi_slidable)
+[![Pub Points](https://img.shields.io/pub/points/ios_multi_slidable)](https://pub.dev/packages/ios_multi_slidable)
+[![Popularity](https://img.shields.io/pub/popularity/ios_multi_slidable)](https://pub.dev/packages/ios_multi_slidable)
+[![Likes](https://img.shields.io/pub/likes/ios_multi_slidable)](https://pub.dev/packages/ios_multi_slidable)
